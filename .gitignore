@@ -1,0 +1,27 @@
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+venv*/
+*.log
+
+# 数据集
+data/
+flower_data/
+
+# 模型权重
+*.pth
+*.pt
+
+# 图片、临时文件
+*.png
+*.jpg
+*.jpeg
+*.ipynb_checkpoints
+.idea/
+.vscode/
+*.DS_Store
