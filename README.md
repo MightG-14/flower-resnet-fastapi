@@ -13,6 +13,7 @@
 5. 内嵌极简前端页面，浏览器可视化识别
 
 ## 📁 项目目录
+```
 flower_photo/
 ├── data/
 │   └── flower_photos/        # Kaggle 原始数据集
@@ -25,6 +26,7 @@ flower_photo/
 │   ├── evaluate.py           # 评估指标、混淆矩阵
 │   └── api.py                # FastAPI 推理服务
 └── model.pth                 # 训练完成权重文件
+```
 
 ## 🛠️ 环境安装
 ````
